@@ -1,4 +1,4 @@
-🛒 E-Commerce Marketplace with API Integration & Data Migration-hekto-website
+🛒 ### **E-Commerce Marketplace with API Integration & Data Migration-hekto-website**
 
 This project demonstrates **API integration**, **data migration**, and **frontend-backend sync** for an e-commerce platform. It fetches product data from an external API, migrates it to Sanity CMS, and displays it on a Next.js frontend.  
 
